@@ -8,9 +8,10 @@ html,body {
     height: 100%;
     overflow: hidden;
 }
-.credit p{
-	text-align:center;
-	color:white;
+.credit{
+	    color: white;
+    text-align: center;
+    font-size: 25px;
 }
 
 body {
